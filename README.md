@@ -1,2 +1,7 @@
-# Jogo_Flutter
-Repositório para disciplina de programaçõa mobile
+# Even or Odd
+
+## Setup
+
+1. Clone this project
+2. `flutter run`
+3. Choose your platform
